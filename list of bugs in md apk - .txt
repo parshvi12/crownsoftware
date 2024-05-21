@@ -1,0 +1,27 @@
+list of bugs in md apk - 
+
+
+1. no event is happening when we click in login button .
+2. username and password is not accepting.
+3.no need to give login button at footer of login page.
+4.when too many users send otp request at same time, the event doesn't work..
+5.the options for leave , complaint and food is given in student dashboard as well as present in left side panel. (no needd)
+6. in the explore button , there is no need of personal profile account.
+7. need to design the login and explore page
+8. indentation error is there when we enter username and password.
+
+
+
+
+
+list of bugs in website - 
+
+1. by clicking on profile , page not found error is showing.
+2. website need to be more creative and design.
+3. In food section , on clicking on breakfast, lunch and dinner , no food items are resulting.
+4. Like in application , we cant search food for yesterdays, and tomorrow food items.
+5. profile and dashboard have same contents.
+6. due to access of many users at a time or due to connectivity issue, refresh  token is not found.
+7. sometimes, the username and password are  correct but , still it shows, incorrect while logging in. 
+8. registration panel needs to be added. 
+
